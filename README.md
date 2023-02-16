@@ -1,2 +1,2 @@
 # simple-website
-Phonetic Alabet Website
+Phonetic Alphabet Website
